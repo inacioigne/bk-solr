@@ -1,0 +1,69 @@
+{
+    "id":"bka-1",
+    "type":"PersonalName",
+    "creationDate":"2023-08-31T00:00:00Z",
+    "authority":"Machado de Assis,, 1839-1908",
+    "isMemberOfMADSCollection":"http://bibliokeia.com/authorities/PersonalName/",
+    "fullerName":"Joaquim Maria Machado",
+    "birthDate":"1839-06-21",
+    "birthPlace":"Rio de Janeiro (Brazil)",
+    "deathDate":"1908-09-29",
+    "variant":["Assis, Joaquim Maria Machado de, 1839-1908",
+      "Assis, Machado de, 1839-1908",
+      "De Assis, Joaquim Maria Machado, 1839-1908",
+      "De Assis, Machado, 1839-1908",
+      "Machado de Assis, Joaquim Maria, 1839-1908",
+      "Machado de Assis, Joaquín María, 1839-1908",
+      "Mashado de Assiz, Zhoakin, 1839-1908",
+      "Semana Dr., 1839-1908"],
+"affiliation": "Academia Brasileira de Letras",
+    "image":"http://commons.wikimedia.org/wiki/Special:FilePath/Machado de Assis aos 57 anos.jpg",
+"occupation":[
+      {
+        "id":"bka-1/occupation#sh85092863",
+        "uri":["http://id.loc.gov/authorities/subjects/sh85092863"],
+        "label":["Novelists"],
+        "base":["id.loc.gov"]},
+      
+      {
+        "id":"bka-1/occupation#sh85103733",
+        "uri":["http://id.loc.gov/authorities/subjects/sh85103733"],
+        "label":["Poets"],
+        "base":["id.loc.gov"]},
+      
+      {
+        "id":"bka-1/occupation#sh85039342",
+        "uri":["http://id.loc.gov/authorities/subjects/sh85039342"],
+        "label":["Dramatists"],
+        "base":["id.loc.gov"]},
+      
+      {
+        "id":"bka-1/occupation#sh85034154",
+        "uri":["http://id.loc.gov/authorities/subjects/sh85034154"],
+        "label":["Critics"],
+        "base":["id.loc.gov"]},
+      
+      {
+        "id":"bka-1/occupation#sh85108733",
+        "uri":["http://id.loc.gov/authorities/subjects/sh85108733"],
+        "label":["Public officers"],
+        "base":["id.loc.gov"]}],
+    "hasCloseExternalAuthority":[
+      {
+        "id":"bka-1/hasCloseExternalAuthority#Q311145",
+        "uri":["http://www.wikidata.org/entity/Q311145"],
+        "label":["Joaquim Maria Machado de Assis"],
+        "base":["www.wikidata.org"]},
+      
+      {
+        "id":"bka-1/hasCloseExternalAuthority#48407",
+        "uri":["http://id.worldcat.org/fast/48407"],
+        "label":["Machado de Assis, 1839-1908"],
+        "base":["id.worldcat.org"]}],
+    "hasAffiliation":
+    {
+      "id":"bka-1/hasAffiliation#n82059239",
+      "organization":["Academia Brasileira de Letras"],
+      "affiliationStart":"1897",
+      "affiliationEnd":"1908"}
+}

@@ -1,0 +1,1 @@
+./bin/solr create_core -c teste1 -d bk
