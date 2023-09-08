@@ -17,8 +17,9 @@
       "Mashado de Assiz, Zhoakin, 1839-1908",
       "Semana Dr., 1839-1908"],
 "affiliation": "Academia Brasileira de Letras",
+"occupation":["Novelists", "Poets", "Dramatists", "Critics", "Public officers"],
     "image":"http://commons.wikimedia.org/wiki/Special:FilePath/Machado de Assis aos 57 anos.jpg",
-"occupation":[
+"hasOccupation":[
       {
         "id":"bka-1/occupation#sh85092863",
         "uri":["http://id.loc.gov/authorities/subjects/sh85092863"],

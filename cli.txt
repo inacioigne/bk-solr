@@ -1,1 +1,2 @@
-./bin/solr create_core -c teste1 -d bk
+docker rum -p 8983:8983 solr:9.3.0-slim
+./bin/solr create_core -c authority -d bk
